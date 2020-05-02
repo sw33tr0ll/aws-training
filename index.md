@@ -2,15 +2,14 @@
 layout: default
 ---
 
-# AWS Training
 
 # Intro to the AWS CLI
 > summary summary summary lorem ipsum. ![Read more]
-![Example](./images/example.jpg)
+![Example](./images/aws-logo.png)
 
 # Topic 2
 > summary summary summary lorem ipsum. ![Read more]
-![Example](./images/example.jpg)
+![Example](./images/aws-logo.png)
 
 # Topic 3
 > summary summary summary lorem ipsum. ![Read more]
