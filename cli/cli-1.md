@@ -25,11 +25,11 @@ To use the CLI, you need API keys. Get some by logging in to the [IAM console](h
 > EMBED VIDEO HERE????
 > EMBED VIDEO HERE????
 
-1. Click "users"
-2. Add a user
-3. Give the user programmatic access
-4. Add the user to the _Admins_ group
-5. Save the keys somewhere _safe_
+> 1. Click "users"
+> 2. Add a user
+> 3. Give the user programmatic access
+> 4. Add the user to the _Admins_ group
+> 5. Save the keys somewhere _safe_
 
 # Configuring the CLI
 Run the *aws configure* command. Enter your API keys and region. 
