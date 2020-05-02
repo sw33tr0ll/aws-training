@@ -3,17 +3,17 @@ layout: default
 ---
 
 # AWS #1 - Intro
-> Getting started with Amazon Web Services. [Read more...](./aws-1)
+> Getting started with Amazon Web Services. [Read more...](./aws-101/intro-1)
 
-![Example](./_images/aws-logo.png)
+![Example](./images/aws-logo.png)
 
 # AWS CLI #1 - Intro
 > Getting started with the AWS Command Line Interface. [Read more...](./cli/cli-1)
 
-![Example](./_images/cli.png)
+![Example](./images/cli.png)
 
 # Boto3 #1 - Intro
 > Getting started with the AWS Python SDK. [Read more...](./boto3/boto3-1)
 
-![Example](./_images/boto3.png)
+![Example](./images/boto3.png)
 
