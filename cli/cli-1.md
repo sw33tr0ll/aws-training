@@ -21,9 +21,7 @@ aws --version
 
 To use the CLI, you need API keys. Get some by logging in to the [IAM console](https://console.aws.amazon.com/iam).
 
-> EMBED VIDEO HERE????
-> EMBED VIDEO HERE????
-> EMBED VIDEO HERE????
+> EMBED VIDEO HERE
 
 > 1. Click "users"
 > 2. Add a user
@@ -32,7 +30,7 @@ To use the CLI, you need API keys. Get some by logging in to the [IAM console](h
 > 5. Save the keys somewhere _safe_
 
 # Configuring the CLI
-Run the *aws configure* command. Enter your API keys and region. 
+Run the **aws configure** command. Enter your API keys and region. 
 
 > IMAGE
 
