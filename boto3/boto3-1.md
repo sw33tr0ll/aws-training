@@ -38,11 +38,11 @@ print(raw_response)		 # prints the response
 
 Creating objects and variables in our code like this is the "more correct" way to script with boto3. It makes it easier to troubleshoot issues, build upon your scripts, and move things around. The example above looks good, but the response is still a bit ugly! 
 
-![lab1-b](/_images/lab1-b.png)
+![lab1-b](../_images/lab1-b.png)
 
 Consulting the boto3 documentation (**note:** you want to do this often!) shows that the response format for this request is a Python dictionary.
 
-![lab1-b-response](/_images/lab1-b-response.png)
+![lab1-b-response](../_images/lab1-b-response.png)
 
 Let's break this down. The base response is a dictionary, which includes a bunch of metadata and a list of users. Each user in the list is **also** a dictionary with information like the username, unique ID, and date of creation.
 
@@ -63,4 +63,4 @@ for user in user_list:			# goes through each user in the list
 
 This response looks a lot nicer. 
 
-![lab1-c-response](/_images/lab1-c-response.png)
+![lab1-c-response](../_images/lab1-c-response.png)
