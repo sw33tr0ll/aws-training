@@ -4,21 +4,12 @@ layout: default
 
 
 # Intro to the AWS CLI
-> summary summary summary lorem ipsum. ![Read more]
+> summary summary summary lorem ipsum. ![Read more](./cli.md)
+
 ![Example](./images/aws-logo.png)
 
 # Topic 2
-> summary summary summary lorem ipsum. ![Read more]
+> summary summary summary lorem ipsum. [Read more](./boto3-intro.md)
+
 ![Example](./images/aws-logo.png)
 
-# Topic 3
-> summary summary summary lorem ipsum. ![Read more]
-![Example](./images/example.jpg)
-
-# Topic 4
-> summary summary summary lorem ipsum. ![Read more]
-![Example](./images/example.jpg)
-
-# Topic 5
-> summary summary summary lorem ipsum. ![Read more]
-![Example](./images/example.jpg)
