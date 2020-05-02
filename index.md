@@ -2,14 +2,18 @@
 layout: default
 ---
 
-
-# Intro to the AWS CLI
-> summary summary summary lorem ipsum. ![Read more](./cli.md)
+# AWS #1 - Intro
+> Getting started with Amazon Web Services. [Read more...](./aws-1.md)
 
 ![Example](./images/aws-logo.png)
 
-# Topic 2
-> summary summary summary lorem ipsum. [Read more](./boto3-intro.md)
+# AWS CLI #1 - Intro
+> Getting started with the AWS Command Line Interface. [Read more...](./cli-1.md)
+
+![Example](./images/aws-logo.png)
+
+# Boto3 #1 - Intro
+> Getting started with the AWS Python SDK. [Read more...](./boto3-1.md)
 
 ![Example](./images/aws-logo.png)
 
