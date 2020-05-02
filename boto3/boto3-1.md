@@ -54,7 +54,7 @@ import boto3
 iam_client = boto3.client('iam')
 raw_response = iam_client.list_users()
 
-# so far, this code is the same, but we want to work that raw_response variable down
+# so far, the code is the same, but we want to work that raw_response variable down
 
 user_list = raw_response['Users'] 	# extracts the list of users from the raw response
 for user in user_list:			# goes through each user in the list
@@ -64,3 +64,5 @@ for user in user_list:			# goes through each user in the list
 This response looks a lot nicer. 
 
 ![lab1-c-response](../images/lab1-c-response.png)
+
+##[Next, let's play with scripting S3 buckets!](boto3-2-s3)
