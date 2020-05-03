@@ -21,7 +21,7 @@ aws --version
 
 To use the CLI, you need API keys. Get some by logging in to the [IAM console](https://console.aws.amazon.com/iam).
 
-> EMBED VIDEO HERE
+{% include googleDrivePlayer.html id=1kJ2D99Scgtz2jbvJPQg1MbDeu2DYDzDm %}
 
 > 1. Click "users"
 > 2. Add a user
